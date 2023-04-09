@@ -73,43 +73,43 @@ CMakeFiles/hello-world.dir/hello_world_test.cpp.o: CMakeFiles/hello-world.dir/fl
 CMakeFiles/hello-world.dir/hello_world_test.cpp.o: /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp
 CMakeFiles/hello-world.dir/hello_world_test.cpp.o: CMakeFiles/hello-world.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fwxzxh/Exercism/cpp/hello-world/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello-world.dir/hello_world_test.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello-world.dir/hello_world_test.cpp.o -MF CMakeFiles/hello-world.dir/hello_world_test.cpp.o.d -o CMakeFiles/hello-world.dir/hello_world_test.cpp.o -c /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello-world.dir/hello_world_test.cpp.o -MF CMakeFiles/hello-world.dir/hello_world_test.cpp.o.d -o CMakeFiles/hello-world.dir/hello_world_test.cpp.o -c /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp
 
 CMakeFiles/hello-world.dir/hello_world_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello-world.dir/hello_world_test.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp > CMakeFiles/hello-world.dir/hello_world_test.cpp.i
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp > CMakeFiles/hello-world.dir/hello_world_test.cpp.i
 
 CMakeFiles/hello-world.dir/hello_world_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello-world.dir/hello_world_test.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp -o CMakeFiles/hello-world.dir/hello_world_test.cpp.s
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fwxzxh/Exercism/cpp/hello-world/hello_world_test.cpp -o CMakeFiles/hello-world.dir/hello_world_test.cpp.s
 
 CMakeFiles/hello-world.dir/hello_world.cpp.o: CMakeFiles/hello-world.dir/flags.make
 CMakeFiles/hello-world.dir/hello_world.cpp.o: /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp
 CMakeFiles/hello-world.dir/hello_world.cpp.o: CMakeFiles/hello-world.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fwxzxh/Exercism/cpp/hello-world/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello-world.dir/hello_world.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello-world.dir/hello_world.cpp.o -MF CMakeFiles/hello-world.dir/hello_world.cpp.o.d -o CMakeFiles/hello-world.dir/hello_world.cpp.o -c /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello-world.dir/hello_world.cpp.o -MF CMakeFiles/hello-world.dir/hello_world.cpp.o.d -o CMakeFiles/hello-world.dir/hello_world.cpp.o -c /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp
 
 CMakeFiles/hello-world.dir/hello_world.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello-world.dir/hello_world.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp > CMakeFiles/hello-world.dir/hello_world.cpp.i
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp > CMakeFiles/hello-world.dir/hello_world.cpp.i
 
 CMakeFiles/hello-world.dir/hello_world.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello-world.dir/hello_world.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp -o CMakeFiles/hello-world.dir/hello_world.cpp.s
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fwxzxh/Exercism/cpp/hello-world/hello_world.cpp -o CMakeFiles/hello-world.dir/hello_world.cpp.s
 
 CMakeFiles/hello-world.dir/test/tests-main.cpp.o: CMakeFiles/hello-world.dir/flags.make
 CMakeFiles/hello-world.dir/test/tests-main.cpp.o: /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp
 CMakeFiles/hello-world.dir/test/tests-main.cpp.o: CMakeFiles/hello-world.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fwxzxh/Exercism/cpp/hello-world/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello-world.dir/test/tests-main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello-world.dir/test/tests-main.cpp.o -MF CMakeFiles/hello-world.dir/test/tests-main.cpp.o.d -o CMakeFiles/hello-world.dir/test/tests-main.cpp.o -c /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello-world.dir/test/tests-main.cpp.o -MF CMakeFiles/hello-world.dir/test/tests-main.cpp.o.d -o CMakeFiles/hello-world.dir/test/tests-main.cpp.o -c /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp
 
 CMakeFiles/hello-world.dir/test/tests-main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello-world.dir/test/tests-main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp > CMakeFiles/hello-world.dir/test/tests-main.cpp.i
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp > CMakeFiles/hello-world.dir/test/tests-main.cpp.i
 
 CMakeFiles/hello-world.dir/test/tests-main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello-world.dir/test/tests-main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp -o CMakeFiles/hello-world.dir/test/tests-main.cpp.s
+	/opt/homebrew/bin/aarch64-apple-darwin22-g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fwxzxh/Exercism/cpp/hello-world/test/tests-main.cpp -o CMakeFiles/hello-world.dir/test/tests-main.cpp.s
 
 # Object files for target hello-world
 hello__world_OBJECTS = \
